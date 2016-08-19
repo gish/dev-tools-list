@@ -15,3 +15,8 @@ List of development tools I aim to or have tried out
 * [Grumpicon - manage icons and background images for all devices](http://www.grumpicon.com/)
 * [SVG Optimizer - a Nodejs-based tool for optimizing SVG vector graphics files.](https://github.com/svg/svgo)
 * [SVG OMG](https://jakearchibald.github.io/svgomg/)
+
+# Reading
+## Functional programming
+* [Functional Programming for JavaScript People — Medium](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.u9ahtf81a)
+* [Higher-Order Functions :: Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
