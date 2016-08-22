@@ -16,6 +16,9 @@ List of development tools I aim to or have tried out
 * [SVG Optimizer - a Nodejs-based tool for optimizing SVG vector graphics files.](https://github.com/svg/svgo)
 * [SVG OMG](https://jakearchibald.github.io/svgomg/)
 
+# Monitoring
+* [Bugsnag - Detect and diagnose crashes in your applications](https://bugsnag.com/)
+
 # Reading
 ## Functional programming
 * [Functional Programming for JavaScript People — Medium](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.u9ahtf81a)
