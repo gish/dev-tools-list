@@ -19,8 +19,13 @@ List of development tools I aim to or have tried out
 # Monitoring
 * [Bugsnag - Detect and diagnose crashes in your applications](https://bugsnag.com/)
 
+
 # Reading
 * [JavaScript allongé](https://leanpub.com/javascriptallongesix/read) - Programming with functions, in JS
+
+## Best practices
+* ([10 things you shouldn't do while running Node.js in JSproduction](https://hashnode.com/post/10-things-you-shouldnt-do-while-running-nodejs-in-production-cisab2fyu0s9oth5341faywcw))
+
 ## Functional programming
 * [Functional Programming for JavaScript People — Medium](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.u9ahtf81a)
 * [Higher-Order Functions :: Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
